@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #404eb5, #3daeae);
+}
+img{
+    width: 200px;
+    height: auto;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+   margin-bottom: 20px;
+
+}
